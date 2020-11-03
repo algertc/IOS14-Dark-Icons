@@ -11,8 +11,8 @@ simply adapted some app icons to fit a dark theme. Not a custom
 <head></head>
  <body>
     <div style="width: 100%;">
-        <div style="width: 50%; height: 100px; float: left; background: green;"> 
-            Left Div 
+        <div style="width: 50%; height: 100px; float: left; background: green;">
+            <img src="https://raw.githubusercontent.com/algertc/IOS14-Dark-Icons/main/IMG-2162.jpg" width="222" height="459" />
         </div>
         <div style="margin-left: 50%; height: 100px; background: blue;"> 
             Right Div
