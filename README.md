@@ -15,7 +15,7 @@ simply adapted some app icons to fit a dark theme. Not a custom
             <img src="https://raw.githubusercontent.com/algertc/IOS14-Dark-Icons/main/IMG-2162.jpg" width="222" height="459" />
         </div>
         <div style="margin-left: 50%; height: 100px; background: blue;"> 
-            Right Div
+            <img src="https://raw.githubusercontent.com/algertc/IOS14-Dark-Icons/main/IMG-2162.jpg" width="222" height="459" />
         </div>
     </div>
  </body>
